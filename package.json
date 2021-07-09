@@ -1,0 +1,14 @@
+{
+    "name": "simple-webcrawler-javascript",
+    "version": "0.0.0",
+    "description": "A simple webcrawler written in JavaScript",
+    "main": "main.js",
+    "author": "Ranjan",
+    "dependencies": {
+        "cheerio": "^0.19.0",
+        "file-system": "2.2.2",
+        "mongodb": "^3.0.5",
+        "request": "^2.65.0",
+        "url-parse": "^1.0.5"
+    }
+}
